@@ -1,0 +1,13 @@
+C:\Users\AdemodiSeun\Desktop\c# Classes sbsc\Lab 4\bin\Debug\netcoreapp3.1\Lab 4.exe
+C:\Users\AdemodiSeun\Desktop\c# Classes sbsc\Lab 4\bin\Debug\netcoreapp3.1\Lab 4.deps.json
+C:\Users\AdemodiSeun\Desktop\c# Classes sbsc\Lab 4\bin\Debug\netcoreapp3.1\Lab 4.runtimeconfig.json
+C:\Users\AdemodiSeun\Desktop\c# Classes sbsc\Lab 4\bin\Debug\netcoreapp3.1\Lab 4.runtimeconfig.dev.json
+C:\Users\AdemodiSeun\Desktop\c# Classes sbsc\Lab 4\bin\Debug\netcoreapp3.1\Lab 4.dll
+C:\Users\AdemodiSeun\Desktop\c# Classes sbsc\Lab 4\bin\Debug\netcoreapp3.1\Lab 4.pdb
+C:\Users\AdemodiSeun\Desktop\c# Classes sbsc\Lab 4\obj\Debug\netcoreapp3.1\Lab 4.csprojAssemblyReference.cache
+C:\Users\AdemodiSeun\Desktop\c# Classes sbsc\Lab 4\obj\Debug\netcoreapp3.1\Lab 4.AssemblyInfoInputs.cache
+C:\Users\AdemodiSeun\Desktop\c# Classes sbsc\Lab 4\obj\Debug\netcoreapp3.1\Lab 4.AssemblyInfo.cs
+C:\Users\AdemodiSeun\Desktop\c# Classes sbsc\Lab 4\obj\Debug\netcoreapp3.1\Lab 4.csproj.CoreCompileInputs.cache
+C:\Users\AdemodiSeun\Desktop\c# Classes sbsc\Lab 4\obj\Debug\netcoreapp3.1\Lab 4.dll
+C:\Users\AdemodiSeun\Desktop\c# Classes sbsc\Lab 4\obj\Debug\netcoreapp3.1\Lab 4.pdb
+C:\Users\AdemodiSeun\Desktop\c# Classes sbsc\Lab 4\obj\Debug\netcoreapp3.1\Lab 4.genruntimeconfig.cache
